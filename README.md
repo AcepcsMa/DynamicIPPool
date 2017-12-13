@@ -9,6 +9,8 @@ What's more, `Flask` is involved to build some public APIs for data manupulation
 
 ![](http://p0u4yewt0.bkt.clouddn.com/structure.png)
 <center> <b>Structure</b> </center>
+
+
 ### Environment
 1. `Python 3.6.0`
 2. `Scrapy 1.4.0`
